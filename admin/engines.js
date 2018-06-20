@@ -7,6 +7,7 @@ var sayitEngines = {
     "it":       {name: "Google - Italiano",        engine: "google",  params: []},
     "es":       {name: "Google - Espaniol",        engine: "google",  params: []},
     "fr":       {name: "Google - Français",        engine: "google",  params: []},
+    "pl":       {name: "Google - Polski",          engine: "google",  params: []},
     "ru_YA":    {name: "Yandex - Русский",         engine: "yandex",  params: ['key', 'voice', 'emotion', 'ill', 'drunk', 'robot'], voice: ['jane', 'zahar'], emotion: ['none', 'good', 'neutral', 'evil', 'mixed']},
 
     "ru-RU_CLOUD_Female":       {gender: "Female", engine: "cloud",   params: ['cloud'], language: "ru-RU",      ename: "Tatyana",    ssml: true, name: "Cloud - Русский - Татьяна"},
